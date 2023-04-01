@@ -38,7 +38,7 @@ public class Zadanie_12 {
 
         System.out.println();
         System.out.println("Изменённые строки");
-        // Вывод изменённого массива
+        // Вывод изменённого массива строк
         for (String s : strArray) {
             System.out.println(s);
         }
